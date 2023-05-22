@@ -33,7 +33,7 @@ redis==2.10.6
 # (we should use pyOpenSSL instead of the local openssl library). For
 # reference, see:
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
-requests==2.22.0
+requests==2.31.0
 urllib3[secure]==1.26.5
 
 # The version of gunicorn shipped with Open edX is too old. We want to use a
